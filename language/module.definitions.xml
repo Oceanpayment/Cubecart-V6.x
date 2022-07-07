@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ * CubeCart v6
+ * ========================================
+ * CubeCart is a registered trade mark of CubeCart Limited
+ * Copyright CubeCart Limited 2014. All rights reserved.
+ * UK Private Limited Company No. 5323904
+ * ========================================
+ * Web:   http://www.cubecart.com
+ * Email:  sales@cubecart.com
+ * License:  GPL-3.0 http://opensource.org/licenses/GPL-3.0
+-->
+<definitions version="1.0">
+ <group name="oceanpayment">
+  <string name="account"><![CDATA[Account]]></string>
+  <string name="terminal"><![CDATA[Terminal]]></string>
+  <string name="securecode"><![CDATA[Securecode]]></string>
+  <string name="payment_page_url"><![CDATA[Payment URL]]></string>
+  <string name="payment_page_url_default"><![CDATA[e.g. https://secure.oceanpayment.com/gateway/service/pay]]></string>
+ </group>
+</definitions>
